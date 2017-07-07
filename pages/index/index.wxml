@@ -10,8 +10,9 @@
   </view>
 
   <view class="sim-row" bindtap="navigateTo" data-url="../content/index">
-  <text>I'm Feeling Lucky </text>
-    <text class="fa fa-angle-right"></text></view>
+    <text>I'm Feeling Lucky </text>
+    <text class="fa fa-angle-right"></text>
+  </view>
 
   <!--<button class="sim-btn sim-btn-info">Go</button>-->
 </view>

@@ -9,4 +9,4 @@
   box-sizing: border-box;
 } 
 
-@import "simui/simui.wxss";
+/*@import "simui/simui.wxss";*/
