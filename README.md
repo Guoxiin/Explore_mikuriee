@@ -3,4 +3,4 @@
 > Explore wechat
 
 ### 添加tabBar作为底部栏
-    * [issue]()
+    * [issue tabBar不显示](https://github.com/Aisuko/Explore_mikuriee/issues/1)
