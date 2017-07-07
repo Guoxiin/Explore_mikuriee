@@ -3,7 +3,7 @@
 var app = getApp()
 Page({
   data: {
-    motto: 'Hello World',
+    motto: "",
     userInfo: {}
   },
   //事件处理函数
@@ -21,6 +21,11 @@ Page({
       that.setData({
         userInfo:userInfo
       })
+    })
+  },
+  navigateTo:function(e){
+    wx.navigateTo({
+      url: e.currentTarget.dataset.url,
     })
   }
 })
