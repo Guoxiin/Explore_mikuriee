@@ -9,7 +9,7 @@
     <text class="user-motto">{{motto}}</text>
   </view>
 
-  <view class="sim-row" bindtap="navigateTo" data-url="../content/index">
+  <view class="sim-row" bindtap="bindViewTap" data-url="../content/index">
     <text>I'm Feeling Lucky </text>
     <text class="fa fa-angle-right"></text>
   </view>

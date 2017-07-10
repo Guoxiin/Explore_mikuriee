@@ -6,9 +6,9 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "black",
     "navigationBarTitleText": "Let's Explore",
-    "navigationBarTextStyle": "black",
+    "navigationBarTextStyle": "#696969",
     "enablePullDownRefresh": true
   },
   "tabBar": {
