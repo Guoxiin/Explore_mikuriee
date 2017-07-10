@@ -2,7 +2,9 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/content/index"
+    "pages/content/index",
+    "pages/component/pages/navigator/navigator",
+    "pages/component/pages/navigator/navigate"  
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -24,6 +26,11 @@
       },
       {
         "pagePath": "pages/content/index",
+        "iconPath": "image/icon_API.png",
+        "selectedIconPath": "image/icon_API_HL.png"
+      },
+      {
+        "pagePath": "pages/component/pages/navigator/navigator",
         "iconPath": "image/icon_API.png",
         "selectedIconPath": "image/icon_API_HL.png"
       }
